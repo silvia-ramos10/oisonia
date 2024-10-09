@@ -7,7 +7,7 @@
     --branco: #ffffff;
 }
 
-bory{
+body{
     background-color: var(--fundo);
     margin: 0;
 }
