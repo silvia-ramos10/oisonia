@@ -1,4 +1,4 @@
-function criaCartao(){
+function criaCartao(geografia, Qual é a maior potência do mundo?, Estados Unidos){
 let container = document.getElementById('container');
 let cartao = document.createElement('article');
 cartao.className = 'cartao';
@@ -13,4 +13,5 @@ cartao.innerHTML =  `
     </div>
 </div>
 `
+container.appendChild(cartao);
 }

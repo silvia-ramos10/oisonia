@@ -59,7 +59,7 @@ criaCartao (
     'A principal diferença é que o presente perfeito conecta o passado com o presente, enquanto o passado simples refere-se a ações que são totalmente concluídas no passado'
     )
     criaCartao(
-    'Geografia',
+    'geografia',
     'Qual é a maior potência do mundo?',
     'Estados Unidos'
     )
