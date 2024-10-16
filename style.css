@@ -50,6 +50,7 @@ transition: transform 300ms ease-in-out;
         padding: 0.6rem;
         border-radius: 0.6rem;
         font-size: 1vw;
+        backface-visibility: hidden;
     }
     .conteudo-cartao p{
         margin-top: 4rem;
